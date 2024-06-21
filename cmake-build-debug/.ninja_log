@@ -1,0 +1,24 @@
+# ninja log v5
+1	834	7406403895790961	CMakeFiles/ExamenPoo.dir/main.cpp.obj	c9edd727c1114836
+16	3324	7406003443655624	CMakeFiles/ExamenPoo.dir/Characters/Entidad.cpp.obj	cba2d0eb2b291ca5
+3	1005	7406408930094333	build.ninja	936e0aee1901f50a
+3	1771	7406004219074604	CMakeFiles/ExamenPoo.dir/Characters/Enemigo.cpp.obj	b40deb8fc586b13c
+862	1062	7406403897617266	ExamenPoo.exe	72b64cdac919858
+12	883	7406050082141988	CMakeFiles/ExamenPoo.dir/Habilidad/habilidad.cpp.obj	43f2228c2cecf6c2
+8	862	7406403896060237	CMakeFiles/ExamenPoo.dir/Characters/Jugador.cpp.obj	60f25ea9c13b82fc
+1	810	7406396495729353	CMakeFiles/ExamenPoo.dir/Characters/Personaje.cpp.obj	543af5ecfa179db1
+43	2759	7406026029930281	CMakeFiles/ExamenPoo.dir/Inventario/item.cpp.obj	cf6cac77cb29f2d8
+7	969	7406050082994067	CMakeFiles/ExamenPoo.dir/Inventario/inventario.cpp.obj	36eda1d04fc75c69
+16	1308	7406180980798368	CMakeFiles/ExamenPoo.dir/Habilidad/curar.cpp.obj	fa8500343e2efcbc
+12	1309	7406180980788414	CMakeFiles/ExamenPoo.dir/Habilidad/boladefuego.cpp.obj	be73281f87db66cc
+2	268	7406409011337518	CMakeFiles/ExamenPoo.dir/main.cpp.obj	9fb475c90f3dbf2a
+8	279	7406409011457119	CMakeFiles/ExamenPoo.dir/Characters/Entidad.cpp.obj	a2319b0531305f6a
+14	299	7406409011656450	CMakeFiles/ExamenPoo.dir/Characters/Enemigo.cpp.obj	d6413dfe8825fcc5
+52	305	7406409011716256	CMakeFiles/ExamenPoo.dir/Habilidad/curar.cpp.obj	109d41074a389c25
+20	307	7406409011746152	CMakeFiles/ExamenPoo.dir/Characters/Personaje.cpp.obj	fdfb78faa4467c96
+47	322	7406409011895650	CMakeFiles/ExamenPoo.dir/Habilidad/boladefuego.cpp.obj	50202157783aa495
+42	325	7406409011925549	CMakeFiles/ExamenPoo.dir/Habilidad/habilidad.cpp.obj	f837511afa19354d
+31	326	7406409011935518	CMakeFiles/ExamenPoo.dir/Inventario/item.cpp.obj	1dc324b6c48d8962
+25	354	7406409012214582	CMakeFiles/ExamenPoo.dir/Characters/Jugador.cpp.obj	b5d8a4a3d2ae334
+4	315	7406409342799777	CMakeFiles/ExamenPoo.dir/Inventario/inventario.cpp.obj	ad502dc9dfdb05ae
+315	397	7406409343607053	ExamenPoo.exe	464e40b22e067184

@@ -1,0 +1,3 @@
+C:/Users/Armando/Documents/C++/ExamenPoo/cmake-build-debug/CMakeFiles/ExamenPoo.dir
+C:/Users/Armando/Documents/C++/ExamenPoo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Armando/Documents/C++/ExamenPoo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
